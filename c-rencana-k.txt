@@ -2,3 +2,5 @@ Python
 C++
 c#
 cyber
+javascript react
+vue
